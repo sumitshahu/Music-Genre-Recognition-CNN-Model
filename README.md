@@ -2,19 +2,6 @@
 
 This is a Django project for classifying  music genre using CNN model. 
 
-## Project Structure
-
-```
-stock-market-analysis
-├── stock_market_analysis
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   └── asgi.py
-├── manage.py
-└── README.md
-```
 
 ## Installation
 
